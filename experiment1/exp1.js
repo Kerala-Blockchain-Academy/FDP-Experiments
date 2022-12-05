@@ -1,6 +1,4 @@
 const { randomBytes } = require('crypto')
-const secp256k1 = require('secp256k1')
-const keccak = require('keccak')
 const BIP39 = require("bip39")
 const hdkey = require('ethereumjs-wallet/hdkey')
 const Wallet = require('ethereumjs-wallet')
