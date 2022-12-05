@@ -1,0 +1,23 @@
+{
+    "name": "ethaddr",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@ethereumjs/tx": "^3.5.2",
+      "bip39": "^2.5.0",
+      "ethereumjs-tx": "^1.3.7",
+      "ethereumjs-wallet": "^0.6.2",
+      "hdkey": "^2.0.1",
+      "js-sha3": "^0.8.0",
+      "secp256k1": "^4.0.3",
+      "web3": "^1.7.4"
+    }
+   }
+   
